@@ -2,6 +2,6 @@ from queue import Queue
 import inspect
 
 q = Queue() 
-print(q)
+print(q)	
 
-print(inspect.getsource(Queue))
+print(inspect.getsource(Queue ))
